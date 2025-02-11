@@ -1,1 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
 
+.home-page, .page-content {
+    text-align: center;
+}
+
+.navigation button {
+    display: block;
+    margin: 10px auto;
+    padding: 15px 30px;
+    font-size: 20px;
+}
